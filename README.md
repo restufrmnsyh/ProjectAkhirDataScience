@@ -11,10 +11,11 @@ keterampilan) dibandingkan dengan CGPA pada 1.155 mahasiswa. Kerangka kerja yang
 
 | Berkas | Keterangan |
 |---|---|
-| `Project_DataScience.ipynb` | Notebook utama: Business Understanding, Data Gathering, EDA, Cleaning, EDA lanjutan, dan Preprocessing |
+| `Project_DataScience.ipynb` | Notebook utama: Business Understanding, Data Gathering, EDA, Cleaning, EDA lanjutan, Preprocessing, serta Bagian 7: Feature Engineering dan Seleksi Fitur |
 | `data/Students_Performance_data_set.csv` | Dataset asli (CC BY 4.0) |
 | `data/data_bersih.csv` | Data setelah cleaning|
-| `fig/` | Gambar hasil EDA yang dipakai di laporan|
+| `fig/` | Gambar hasil EDA |
+| `fig/g5_distribusi_fitur.png` | Histogram kehadiran, jam belajar, media sosial, pengembangan keterampilan, dan SGPA sebelumnya |
 | `requirements.txt` | Daftar pustaka Python |
 
 ## Cara menjalankan
