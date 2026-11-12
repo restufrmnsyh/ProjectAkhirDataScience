@@ -12,7 +12,7 @@ keterampilan) dibandingkan dengan CGPA pada 1.155 mahasiswa. Kerangka kerja yang
 | Berkas | Keterangan |
 |---|---|
 | `Project_DataScience.ipynb` | Notebook utama: Business Understanding, Data Gathering, EDA, Cleaning, EDA lanjutan, dan Preprocessing |
-| `data/Students_Performance_data_set.xlsx` | Dataset asli (CC BY 4.0) |
+| `data/Students_Performance_data_set.csv` | Dataset asli (CC BY 4.0) |
 | `data/data_bersih.csv` | Data setelah cleaning|
 | `fig/` | Gambar hasil EDA yang dipakai di laporan|
 | `requirements.txt` | Daftar pustaka Python |
@@ -38,3 +38,7 @@ memakai `random_state=42`, jadi hasilnya sama setiap kali dijalankan.
 
 Rahman, A. T., Lamia, S., Shishir, A. H., & Barsa, M. M. (2024). *Students_Academic_Performance_Evaluation_Dataset*
 (Versi 1) [Dataset]. Mendeley Data. https://doi.org/10.17632/dc3797vf3t.1. Lisensi CC BY 4.0.
+
+## Bukti capaian analisis
+
+Notebook menyertakan kamus seluruh 31 variabel (Data Gathering), audit kualitas setiap kolom (3.5), perbandingan sebelum–sesudah cleaning (4), serta alasan encoding, imputasi, scaling dan keputusan tidak melakukan resampling untuk target regresi (6.1). Nilai berulang per kolom dibedakan dari duplikat baris. Mata uang pendapatan belum terverifikasi dari header sumber. Hasil tidak digeneralisasi ke seluruh mahasiswa.
