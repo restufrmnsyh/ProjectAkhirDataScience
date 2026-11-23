@@ -1,6 +1,6 @@
 # Analisis Pengaruh Kegiatan Internal dan Eksternal terhadap Performa Akademik Mahasiswa
 
-Proyek UTS Data Science 2026/2027, Program Studi Informatika, UPN "Veteran" Yogyakarta.
+Proyek Data Science 2026/2027, Program Studi Informatika, UPN "Veteran" Yogyakarta.
 Dosen pengampu: Dhimas Arief Dharmawan, S.T., Ph.D.
 
 Proyek ini menguji kegiatan mahasiswa mana yang berhubungan dengan CGPA. Kegiatan **internal**
